@@ -7,11 +7,30 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This handy-dandy web app allows users to store their basic health stats in theor profile along with accessing workouts assigned to them by their trainer. After completeing a workout they can mark it off as complete and post a quick workout selfie to Instagram.
+
+Via an admin login, trainers can build and assign workouts to their clients by adding custom exercises.
+
 ### Features
-Include Features here
+User login
+User Profile editing
+Admin Login
+Adding Exercices
+Creating workouts
+Assigning workouts to users
+Logging workout as complete
+Posting to Instagram
+
+
 ### Technologies
-Include Technologies here
+MySql
+Java
+Flask
+Bootstrap
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+API posting and authenticating Oauth
+
+### Trello Board
+https://trello.com/b/kGIWj0Yg/liftoff-capstone-project
