@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-This handy-dandy web app allows users to store their basic health stats in theor profile along with accessing workouts assigned to them by their trainer. After completeing a workout they can mark it off as complete and post a quick workout selfie to Instagram.
+This handy-dandy web app allows users to store their basic health stats in their profile along with accessing workouts assigned to them by their trainer. After completing a workout they can mark it off as complete and post a quick workout selfie to Instagram.
 
 Via an admin login, trainers can build and assign workouts to their clients by adding custom exercises.
 
@@ -15,7 +15,7 @@ Via an admin login, trainers can build and assign workouts to their clients by a
 User login
 User Profile editing
 Admin Login
-Adding Exercices
+Adding Exercises
 Creating workouts
 Assigning workouts to users
 Logging workout as complete
@@ -25,7 +25,7 @@ Posting to Instagram
 ### Technologies
 MySql
 Java
-Flask
+Springboot
 Bootstrap
 
 
