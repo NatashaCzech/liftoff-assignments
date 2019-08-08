@@ -8,7 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-*
+*https://github.com/NattyLight13/WorkoutTracker/blob/master/IMG_5179.jpg
+*https://github.com/NattyLight13/WorkoutTracker/blob/master/IMG_5180.jpg
+*https://github.com/NattyLight13/WorkoutTracker/blob/master/IMG_5181.jpg
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
